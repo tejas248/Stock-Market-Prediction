@@ -1,4 +1,3 @@
-"""Shubham Agawane - 2019"""
 def lstm_prediction(se, stock_symbol):
 	import pandas as pd
 	import numpy as np
