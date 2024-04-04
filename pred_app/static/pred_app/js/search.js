@@ -1,7 +1,4 @@
-/*
-* Search.js
-* This is for menubar search result
-*/
+
 
 $(function(){
 	var url = $('#typeahead').attr('data-url');
