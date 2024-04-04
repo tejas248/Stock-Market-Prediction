@@ -31,5 +31,5 @@ def send(subject,send_to,message):
         smtp.login(sender_mail_id,password)
         smtp.send_message(msg)
 
-# send('Feedback Message acknowledgement', 'ajayladkat123@gmail.com','Hello. Nice Application ')
+
 
